@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my little slice of github.  
+
+This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. 
+
+
+
 <!--
 **weston-bailey/weston-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
