@@ -1,4 +1,4 @@
-### Hello, Wolrd 👋
+### Hello, World 👋
 
 Welcome to my little slice of github!  
 
