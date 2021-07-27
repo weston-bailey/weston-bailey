@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, Wolrd 👋
 
-Welcome to my little slice of github.  
+Welcome to my little slice of github!  
 
 This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. 
 
