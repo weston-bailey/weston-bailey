@@ -6,9 +6,7 @@ This is place full of things I made, things I think are neat and also lots of re
 
 If you are a former student are wondering where some class code went, I moved the lessons to [to this org](https://github.com/ga-sei-lessons).
 
-Unless otherwise explicitly noted in a repository liscense, all code I have written and uploaded to github is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 
-
-<a target="_blank" href="http://www.google.com">test</a>
+Unless otherwise explicitly noted in a repository liscense, all code I have written and uploaded to github is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <!--
 **weston-bailey/weston-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
