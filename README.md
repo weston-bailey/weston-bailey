@@ -1,10 +1,12 @@
-### Hello, World 👋
+# Hello, World 👋
 
-Welcome to my little slice of github!  
+## Welcome to my little slice of github!  
 
-This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. 
+This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. Also checkout my [gitlab]9https://gitlab.com/wbailey), where I have been putting my personal projects lately. 
 
 If you are a former student are wondering where some class code went, I moved the lessons to [to this org](https://github.com/ga-sei-lessons).
+
+Unless otherwise explicitly noted in a repository liscense, all code I have written and uploaded to github is licensed under[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 <!--
 **weston-bailey/weston-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
