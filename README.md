@@ -2,7 +2,7 @@
 
 ### Welcome to my little slice of github!  
 
-This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. Also checkout my [gitlab]9https://gitlab.com/wbailey), where I have been putting my personal projects lately. 
+This is place full of things I made, things I think are neat and also lots of retired lessons and already taught code-alongs. Also checkout my [gitlab](https://gitlab.com/wbailey), where I have been putting my personal projects lately. 
 
 If you are a former student are wondering where some class code went, I moved the lessons to [to this org](https://github.com/ga-sei-lessons).
 
